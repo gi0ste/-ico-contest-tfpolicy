@@ -61,5 +61,5 @@ It will requires following input:
  - The name of the Policy Set you're searching
  - The workspace IDs you want to remove
 
-Youtube video link: https://youtu.be/ejVHIdGVS-8
+Youtube video link: https://youtu.be/2Zr56MFb0RQ
 
