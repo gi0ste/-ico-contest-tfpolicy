@@ -8,7 +8,7 @@ Sentinel is an embedded policy-as-code framework integrated with the HashiCorp E
 
 But what can you do with Sentinel? You can write a policy that prevents the destruction of your resources in your production environment. Or allowing only some particular provider to use by your plan. Or limit the type of EC2 instances you can create. Or ... okay, okay, you got it.
 
-> **Note:**  The repo focus is on the support of Policy Set, as the usage of a single Policy is deprecated in Terraform Cloud. Policy sets are groups of policies that are applied together to related workspaces. Notice also Sentinel policies are a paid feature available as part of the Team & Governance upgrade package.
+> **Note:**  The repo focus is on the support of Policy Set, as the usage of a single Policy is deprecated in Terraform Cloud. Policy sets are groups of policies that are applied together to related workspaces. Notice also Sentinel policies are a paid feature available as part of the Team & Governance upgrade package from HashiCorp.
 
 Current use cases are highlighted below. These use cases can be implemented as ICO Workflow and rely on custom tasks:
  - Create a Policy Set and attach it to a workspace(s)
