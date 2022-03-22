@@ -36,6 +36,33 @@ The following entity will be created in Intersight after importing the workflow/
 
 Remember, it is your responsibility to claim Terraform Cloud system as a new HTTP Endpoint target in Intersight. Don't know how to? check the Intersight manual [here](https://intersight.com/help/saas/getting_started/claim_targets).
 
+## Custom Task Technical Details
+
+Find below additional information on the custom task available in this repository.,
+
+###  Create a Policy Set
+Create a new Policy Set in Terraform CLoud
+![This is an image](images/create_a_policy_set.png)
+
+###  Update a Policy Set
+Update an exhisting a new Policy Set in Terraform CLoud
+![This is an image](images/update_a_policy.png)
+
+###  Search for a Policy Set
+Search for a Policy Set by name and return his Policy ID
+![This is an image](images/search_policy.png)
+
+###  Attach a Policy Set to workspaces
+Attach a Policy Set to a given workspacve(s)
+![This is an image](images/attach_a_policy.png)
+
+### Delete a Policy Set
+Delete a Policy Set
+![This is an image](images/delete_a_policy.png)
+
+###  Detach a Policy Set to workspaces
+Detach a Policy Set to a given workspacve(s)
+![This is an image](images/detach_a_policy.png)
 
 ## Sample Workflow: Create a Policy Set and add one of more workspace!
 ![This is an image](images/ico-march-workflow.png)
