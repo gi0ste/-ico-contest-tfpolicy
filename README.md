@@ -51,15 +51,15 @@ It will generate the following output:
 Youtube video link: https://youtu.be/ejVHIdGVS-8
 
 ## Sample Workflow: Demo - Detach a workspace from a Policy Set!
-![This is an image](images/ico-march-workflow.png)
+![This is an image](images/ico-march-workflow-2.png)
 
 The below workflow simply search for the ID of a Policy Set by the name, then remove the Policy Set from one of more workspaces.T The workflow make use of one custom task:
  - Create a Policy Set
  - Attach a Policy Set to workspace(s)
 
-It will generate the following output:
- - Policy ID (assigned by Terraform Cloud)
- - Policy URL Link (URL of the policy itself)
+It will requires following input:
+ - The name of the Policy Set you're searching
+ - The workspace IDs you want to remove
 
 Youtube video link: https://youtu.be/ejVHIdGVS-8
 
