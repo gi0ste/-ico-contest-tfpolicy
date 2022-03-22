@@ -1,10 +1,10 @@
-# Repository for Mach ICO Contest
+# Repository for March ICO Contest
 
 Have you ever heard about Policy as  Code? I'm sure you have.
 Policy as Code lets you treat a policy like an application, leveraging version control, pull review, and automating tests.
 
 Intersight integrates today with HashiCorp Terraform but lacks the integration with the robust Policy as Code solution offered by HashiCorp with Sentinel.
-Sentinel is an embedded policy-as-code framework integrated with the HashiCorp Enterprise products such as Terraform Cloud. It enables fine-grained, logic-based policy decisions and can be extended to use information from external sources.
+Sentinel is an embedded policy-as-code framework integrated with the HashiCorp Enterprise products such as Terraform Cloud or Terraform Enterpise. It enables fine-grained, logic-based policy decisions and can be extended to use information from external sources.
 
 But what can you do with Sentinel? You can write a policy that prevents the destruction of your resources in your production environment. Or allowing only some particular provider to use by your plan. Or limit the type of EC2 instances you can create. Or ... okay, okay, you got it.
 
