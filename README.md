@@ -33,12 +33,11 @@ The following entity will be created in Intersight after importing the workflow/
 - Custom Workflow:
  - Demo - Create a Policy Set and add a workspace
 
-Remember, it is your responsibility to claim Terraform Cloud system as a new HTTP Endpoint target in Intersight. Don't know how to? check the Intersight manual [here].(https://intersight.com/help/saas/getting_started/claim_targets)+
+Remember, it is your responsibility to claim Terraform Cloud system as a new HTTP Endpoint target in Intersight. Don't know how to? check the Intersight manual [here](https://intersight.com/help/saas/getting_started/claim_targets).
 
 
 ## Sample Workflow: Create a Policy Set and add one of more workspace!
-[image](images/ico-march-workflow.png)
-
+![This is an image](images/ico-march-workflow.png)
 
 The below workflow simply create a new Policy Set in your Terraform Cloud organization, and then attach one or more workspace to it. The workflow has been built relying on the above custom task. The workflow make use of one custom task:
  - Create a Policy Set
