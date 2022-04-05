@@ -15,7 +15,7 @@ Current use cases are highlighted below. These use cases can be implemented as I
  - Update a given Policy Set
  - Detach a workspace(s) from a Policy Set
 
-The above workflow relies on the below custom task:
+The above use cases relies on the below custom task:
  - Create a Policy Set
  - Delete a Policy Set
  - Update a Policy Set
@@ -38,7 +38,7 @@ Remember, it is your responsibility to claim Terraform Cloud system as a new HTT
 
 ## Custom Task Technical Details
 
-Find below additional information on the custom task available in this repository.,
+Find below additional information on the custom task available in this repository.
 
 ###  Create a Policy Set
 Create a new Policy Set in Terraform CLoud
