@@ -1,4 +1,4 @@
-# ICOI Terraform Sentinel Policy
+# ICO Terraform Sentinel Policy
 
 Have you ever heard about Policy as  Code? I'm sure you have.
 Policy as Code lets you treat a policy like an application, leveraging version control, pull review, and automating tests.
